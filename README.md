@@ -15,6 +15,11 @@ Duplicate product detection
 Catalog enrichment and product tagging
 
 The entire stack is optimized for speed, accuracy, and user experience.
+
+# Home page after deploying in Vercel
+<img width="1915" height="1015" alt="image" src="https://github.com/user-attachments/assets/49f7fb8b-c63c-4f0f-8204-ade5f27f2a16" />
+
+
 # Tech Stack (Very Professional Section)
 
 # Machine Learning
