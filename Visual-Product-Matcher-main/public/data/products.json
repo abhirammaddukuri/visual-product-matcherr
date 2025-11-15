@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max 270",
+    "category": "Shoes",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost",
+    "category": "Shoes",
+    "price": 180,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM4",
+    "category": "Electronics",
+    "price": 348,
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Watch",
+    "category": "Electronics",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Canon EOS R5",
+    "category": "Electronics",
+    "price": 3899,
+    "image": "https://images.unsplash.com/photo-1606988375363-58c11601fb1f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "MacBook Pro 16\"",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "iPad Pro",
+    "category": "Electronics",
+    "price": 1099,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Leather Messenger Bag",
+    "category": "Bags",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Classic Backpack",
+    "category": "Bags",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Ray-Ban Aviator",
+    "category": "Accessories",
+    "price": 153,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Rolex Submariner",
+    "category": "Watches",
+    "price": 8950,
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "Casio G-Shock",
+    "category": "Watches",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1541480551145-2370a440d585?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Levi's 501 Jeans",
+    "category": "Clothing",
+    "price": 68,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "North Face Jacket",
+    "category": "Clothing",
+    "price": 279,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 16,
+    "name": "Converse Chuck Taylor",
+    "category": "Shoes",
+    "price": 55,
+    "image": "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 17,
+    "name": "Vans Old Skool",
+    "category": "Shoes",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 18,
+    "name": "Bose QuietComfort",
+    "category": "Electronics",
+    "price": 329,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 19,
+    "name": "JBL Flip 5",
+    "category": "Electronics",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 20,
+    "name": "Kindle Paperwhite",
+    "category": "Electronics",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1592833159057-e37cfc2cc35a?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 21,
+    "name": "Fitbit Charge 5",
+    "category": "Electronics",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 22,
+    "name": "GoPro Hero 10",
+    "category": "Electronics",
+    "price": 449,
+    "image": "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 23,
+    "name": "Nintendo Switch",
+    "category": "Electronics",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 24,
+    "name": "PlayStation 5",
+    "category": "Electronics",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 25,
+    "name": "Xbox Series X",
+    "category": "Electronics",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 26,
+    "name": "Dyson V11",
+    "category": "Home",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 27,
+    "name": "iRobot Roomba",
+    "category": "Home",
+    "price": 449,
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 28,
+    "name": "Nespresso Machine",
+    "category": "Home",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 29,
+    "name": "KitchenAid Mixer",
+    "category": "Home",
+    "price": 379,
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 30,
+    "name": "Instant Pot",
+    "category": "Home",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 31,
+    "name": "Ninja Blender",
+    "category": "Home",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 32,
+    "name": "Philips Hue Bulbs",
+    "category": "Home",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 33,
+    "name": "Ring Doorbell",
+    "category": "Home",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 34,
+    "name": "Nest Thermostat",
+    "category": "Home",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 35,
+    "name": "Echo Dot",
+    "category": "Electronics",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 36,
+    "name": "Google Nest Hub",
+    "category": "Electronics",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 37,
+    "name": "Patagonia Fleece",
+    "category": "Clothing",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 38,
+    "name": "Columbia Rain Jacket",
+    "category": "Clothing",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 39,
+    "name": "Champion Hoodie",
+    "category": "Clothing",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 40,
+    "name": "Polo Ralph Lauren Shirt",
+    "category": "Clothing",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 41,
+    "name": "Tommy Hilfiger Dress",
+    "category": "Clothing",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 42,
+    "name": "Calvin Klein Underwear",
+    "category": "Clothing",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 43,
+    "name": "Timberland Boots",
+    "category": "Shoes",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1605812860427-4024433a70fd?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 44,
+    "name": "Dr. Martens Boots",
+    "category": "Shoes",
+    "price": 170,
+    "image": "https://images.unsplash.com/photo-1582897085656-c636d006a246?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 45,
+    "name": "Birkenstock Sandals",
+    "category": "Shoes",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 46,
+    "name": "Crocs Classic Clogs",
+    "category": "Shoes",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1582897085656-c636d006a246?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 47,
+    "name": "Michael Kors Handbag",
+    "category": "Bags",
+    "price": 298,
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 48,
+    "name": "Coach Wallet",
+    "category": "Accessories",
+    "price": 128,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 49,
+    "name": "Fossil Watch",
+    "category": "Watches",
+    "price": 125,
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 50,
+    "name": "Oakley Sunglasses",
+    "category": "Accessories",
+    "price": 173,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400&h=400&fit=crop"
+  }
+]
