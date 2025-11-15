@@ -1,3 +1,33 @@
+# Project Overview
+Visual Product Matcher — AI-Powered Image Similarity Engine
+
+This project is a production-ready Visual Product Matching system that identifies visually similar products based on an uploaded image or image URL.
+It uses deep-learning embeddings, vector similarity search, and an optimized React + Vercel frontend to deliver fast and accurate results.
+
+The system is aimed at real-world e-commerce workflows such as:
+
+Visual product recommendation
+
+Similar product search
+
+Duplicate product detection
+
+Catalog enrichment and product tagging
+
+The entire stack is optimized for speed, accuracy, and user experience.
+# Tech Stack (Very Professional Section)
+
+# Machine Learning
+CLIP (OpenAI) or MobileNetV2 for image embeddings
+NumPy for vector normalization and similarity computation
+FAISS / Annoy (optional) for optimized vector search
+
+# Frontend
+React (TypeScript)
+Tailwind CSS
+Dropzone for image upload
+Vercel for hosting
+
 # visual-product-matcherr
 
 ```sh
@@ -25,6 +55,35 @@ npm run build
 # Preview production build locally
 npm run preview
 ```
+# Matching Algorithm Explanation 
+
+Each image is resized, normalized, and converted into a consistent tensor format.
+A pretrained model (CLIP/MobileNet) extracts the embedding vector representing the visual content.
+All product images also have precomputed embeddings stored in JSON.
+
+The system computes cosine similarity between the query embedding and every product embedding:
+
+score = (1 - cosine_distance) * 100
+
+The top-K highest scoring matches are sorted and displayed.
+
+A threshold slider allows the user to filter low-similarity results.
+
+# How It Works 
+
+[User Image] 
+      ↓
+[Preprocessing & Normalization]
+      ↓
+[Embedding Model (CLIP / MobileNet)]
+      ↓
+[Feature Vector: 512/1024-D]
+      ↓
+[Cosine Similarity Search]
+      ↓
+[Top-K Product Matches]
+      ↓
+[Rendered Results + Similarity Score]
 
 ## Project Structure
 
@@ -39,8 +98,10 @@ npm run preview
 │   └── data/           # Product dataset
 └── scripts/            # Data management scripts
 ```
+# Dataset Description
 
-## Deployment
+The system uses a dataset of 50+ product images across categories including:
+Shoes, Shirts, Watches, Bags, Accessories, Electronics (optional)
 
 The production build can be deployed to any static hosting service:
 
@@ -69,3 +130,9 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+ 
+ # Contact / Author Info
+ Author: Sai Abhiram  
+ B.Tech CSE (AI)  
+ Email: maddukurisaiabhiram@gmail.com
+
