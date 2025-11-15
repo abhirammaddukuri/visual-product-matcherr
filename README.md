@@ -19,11 +19,13 @@ The entire stack is optimized for speed, accuracy, and user experience.
 # Home page after deploying in Vercel
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/49f7fb8b-c63c-4f0f-8204-ade5f27f2a16" />
 
-#  workflow after deploying project
+# Workflow after deploying project
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c0c4ad96-a61d-4e55-8283-a098d1764f71" />
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/762460c4-f5e6-4504-8735-c4dadbe227ba" />
 
-Model is working accuratly after deploying.
+
+**Upon deployment, the model demonstrates robust and accurate performance, successfully identifying visually similar products across the dataset with consistent reliability. The production environment closely mirrors local performance, validating the stability of the entire pipeline.**
+
 
 # Tech Stack (Very Professional Section)
 
