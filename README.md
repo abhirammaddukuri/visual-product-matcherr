@@ -17,7 +17,7 @@ Catalog enrichment and product tagging
 The entire stack is optimized for speed, accuracy, and user experience.
 
 # Home page after deploying in Vercel
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/49f7fb8b-c63c-4f0f-8204-ade5f27f2a16
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/49f7fb8b-c63c-4f0f-8204-ade5f27f2a16" />
 
 # Model working after deploying project
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c0c4ad96-a61d-4e55-8283-a098d1764f71" />
